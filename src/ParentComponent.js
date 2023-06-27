@@ -9,7 +9,7 @@ function ParentComponent() {
 
   return (
     <div>
-      <h2>Parent Component</h2>
+      <h1>Parent Component</h1>
       {isLoggedIn ? (
         <p>You are logged in!</p>
       ) : (
